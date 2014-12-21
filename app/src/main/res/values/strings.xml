@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eTorch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message">Welcome to eTorch</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
